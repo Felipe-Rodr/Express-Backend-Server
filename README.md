@@ -11,3 +11,4 @@
     <li>GraphQL/TypeGraphQL: Framework para busca e manipulação de dados.</li>
     <li>Apollo-server: Servidor apollo para hostear o app na web.</li>
 </ul>
+<h2>Ainda em desenvolvimento.</h2>
